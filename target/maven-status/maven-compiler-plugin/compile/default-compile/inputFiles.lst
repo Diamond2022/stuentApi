@@ -1,0 +1,17 @@
+F:\MCB\api\src\main\java\com\curdrest\api\ApiApplication.java
+F:\MCB\api\src\main\java\com\curdrest\api\controller\MarksController.java
+F:\MCB\api\src\main\java\com\curdrest\api\controller\TeacherController.java
+F:\MCB\api\src\main\java\com\curdrest\api\entity\Group.java
+F:\MCB\api\src\main\java\com\curdrest\api\entity\Marks.java
+F:\MCB\api\src\main\java\com\curdrest\api\entity\Student.java
+F:\MCB\api\src\main\java\com\curdrest\api\entity\Subject.java
+F:\MCB\api\src\main\java\com\curdrest\api\entity\Teacher.java
+F:\MCB\api\src\main\java\com\curdrest\api\repository\MarksRepository.java
+F:\MCB\api\src\main\java\com\curdrest\api\repository\StudentRepository.java
+F:\MCB\api\src\main\java\com\curdrest\api\repository\SubjectRepository.java
+F:\MCB\api\src\main\java\com\curdrest\api\repository\TeacherRepository.java
+F:\MCB\api\src\main\java\com\curdrest\api\security\JwtAuthenticationFilter.java
+F:\MCB\api\src\main\java\com\curdrest\api\security\SecurityConfig.java
+F:\MCB\api\src\main\java\com\curdrest\api\service\JwtService.java
+F:\MCB\api\src\main\java\com\curdrest\api\service\MarksService.java
+F:\MCB\api\src\main\java\com\curdrest\api\service\TeacherService.java
